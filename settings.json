@@ -1,0 +1,11 @@
+{
+  "download_folder": "Загрузки",
+  "max_concurrent": 3,
+  "timeout": 30,
+  "chunk_size": 8192,
+  "resume": true,
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+  "retry_count": 3,
+  "retry_delay": 2,
+  "auto_create_urls": true
+}
